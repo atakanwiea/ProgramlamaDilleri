@@ -1,0 +1,6 @@
+		public class SayiToplam{
+		public static void main(string[] args){
+		string1["merhaba! ismin ne ?"];
+		string2["Merhaba ismim atakan."];
+		system.out.println(string1,string2);
+}
